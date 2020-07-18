@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.desitrad" name="Gama Add-ons" version="0.0.1" provider-name="Gama">
+    <extension point="xbmc.addon.repository" name="Gama Add-ons">
+        <info compressed="true">https://github.com/gama41/repository.desitrad/raw/master/addons.xml</info>
+        <checksum>https://github.com/gama41/repository.desitrad/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/gama41/repository.desitrad/raw/master/zips</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Gama Add-ons</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
