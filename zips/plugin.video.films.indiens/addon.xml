@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.films.indiens"
-version="0.0.1"
+version="0.0.2"
 name="Films Indiens en VOSTFR"
 provider-name="Gama">
 <requires>
